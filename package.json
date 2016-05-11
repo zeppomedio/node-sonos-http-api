@@ -16,7 +16,10 @@
     "node-static": "~0.7.0",
     "request-promise": "~1.0.2",
     "require-fu": "~1.0.0",
-    "sonos-discovery": "https://github.com/jishi/node-sonos-discovery/archive/v0.16.3.tar.gz"
+    "sonos-discovery": "https://github.com/jishi/node-sonos-discovery/archive/v0.16.3.tar.gz",
+    "bluebird": "~3.3.4",
+    "levenshtein": "~1.0.5",
+    "spotify-web-api-node": "~2.2.0"
   },
   "engines" : { "node" : ">=4.0.0 <6.0.0", "npm" : "^2.0.0" },
   "main": "lib/sonos-http-api.js",
